@@ -1,4 +1,3 @@
-using TestTask.Controllers;
 using TestTask.Services;
 using TestTask.Services.Interface;
 
@@ -7,6 +6,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<ISum, SumModuloService>();
+builder.Services.AddTransient<ICheckingPalindrome, PalindromeService>();
+builder.Services.AddTransient<ISort, NumbersSortService>();
 
 var app = builder.Build();
 
