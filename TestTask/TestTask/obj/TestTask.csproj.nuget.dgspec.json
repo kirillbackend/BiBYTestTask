@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj": {}
+    "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj": {}
   },
   "projects": {
-    "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj": {
+    "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
+        "projectUniqueName": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
         "projectName": "TestTask",
-        "projectPath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
+        "projectPath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
         "packagesPath": "C:\\Users\\zinch\\.nuget\\packages\\",
-        "outputPath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\obj\\",
+        "outputPath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zinch\\AppData\\Roaming\\NuGet\\NuGet.Config",

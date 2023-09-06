@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0oZWIqBF941Qz1zuNGLsUoISKEaPPHMnHBUvTWrXtyBb4BuwOqXyFxeefZfkrz+314qg1JapfFXZiqS4oulvbw==",
+  "dgSpecHash": "ijwbV60TzdRPeaPi5eOGS9ei9zI8jKVzcp6E0a8qcp3RVNKV7qrYjggFzMUoPJXWTmty+mUQIibekNfor42FgQ==",
   "success": true,
-  "projectFilePath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
+  "projectFilePath": "E:\\NetCoreProjects\\BiBy\\BiBYTestTask\\BiBYTestTask\\TestTask\\TestTask\\TestTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zinch\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\zinch\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
